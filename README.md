@@ -1,11 +1,5 @@
 # Evolutionary-Computation on Pololu 3pi+ 32U4
 
-下面是**基于你当前仓库结构**的精简英文版 README（可直接整段粘贴到 `README.md`）。我已按你实际的文件夹命名填好（GA/DE 共用框架 + 图在 `docs/`）：
-
----
-
-# Thesis Code: Evolutionary Control on Pololu 3pi+ 32U4
-
 **Thesis snapshot:** `v1.0-thesis`
 
 Two Arduino firmwares for the Pololu **3pi+ 32U4** robot, plus simple host-side scripts.
