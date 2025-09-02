@@ -26,7 +26,7 @@ This is the evolutionary computation island model framework, with the blue part 
 * **MATLAB data recording script/** — `datarecord.m` (automates runs & logs serial CSV)
 * **Plot script/** — `Plot.ipynb` (basic plotting)
 * **Statistical testing/** — `Statistical_testing.ipynb` (basic statistical tests)
-* **Data/** — place collected CSV here (raw/processed as you prefer)
+* **Data/** — place collected CSV here (raw)
 * **docs/** — diagrams (`structurizr-1-c3-all.svg`, `structurizr-1-c3-all-key.svg`)
 
 ## Usage
